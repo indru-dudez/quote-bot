@@ -1,0 +1,13 @@
+{
+    "name": "quote-bot",
+    "description": "Edit .env file before deploying",
+    "keywords": [
+      "bot",
+      "telegram",
+      "js"
+    ],
+    "repository": "https://github.com/indru-dudez/quote-bot",
+    "website": "https://github.com/indru-dudez/quote-bot",
+    "success_url": "https://github.com/LyoSU/quote-bot",
+    "stack": "container"    
+}
